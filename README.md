@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=RemnantDay&theme=xcode" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RemnantDay" /> </div>
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Have a good day!&center=true&size=27"> </a> </h1>
+![](https://github-readme-activity-graph.cyclic.app/graph?username=RemnantDay&theme=dracula)
