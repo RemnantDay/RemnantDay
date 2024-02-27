@@ -1,18 +1,11 @@
 ### Hi there 👋
 
-<!--
-**RemnantDay/RemnantDay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my IBI course.
+- 🌱 I’m currently learning bioinformatics.
+- 🤔 I’m looking for help with some bioinformatics techniques like single-cell sequencing.
+- 🍮 I'm trying to learn more about computer programming.
+- 📫 How to reach me: yuanyizhou999@126.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 <div align="center"> <img src="https://metrics.lecoq.io/RemnantDay?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=RemnantDay&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
@@ -20,4 +13,4 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=RemnantDay&theme=xcode" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RemnantDay" /> </div>
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Have a good day!&center=true&size=27"> </a> </h1>
-![](https://github-readme-activity-graph.cyclic.app/graph?username=RemnantDay&theme=dracula)
+
