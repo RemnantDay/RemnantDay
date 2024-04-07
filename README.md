@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my IBI course.
 - 🌱 I’m currently learning bioinformatics.
-- 🤔 I’m looking for help with some bioinformatics techniques like single-cell sequencing.
+- 🤔 I’m looking for help with some bioinformatics techniques like single-cell data analysis.
 - 🍮 I'm trying to learn more about computer programming.
 - 📫 How to reach me: yuanyizhou999@126.com
 
